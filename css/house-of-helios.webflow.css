@@ -98,11 +98,11 @@ blockquote {
 }
 
 .page-link:hover {
-  color: #cbaad1;
+  color: #634da0;
 }
 
 .page-link.w--current {
-  color: #cbaad1;
+  color: #634da0;
   text-transform: lowercase;
   cursor: pointer;
   align-items: center;
@@ -298,6 +298,7 @@ blockquote {
   margin: 40px auto 60px;
   padding-left: 0;
   font-family: Frank Ruhl Libre, sans-serif;
+  text-transform: lowercase;
   display: flex;
   position: static;
   left: auto;
@@ -440,6 +441,7 @@ blockquote {
 
 .blurb {
   text-align: center;
+  text-transform: lowercase;
   flex-direction: column;
   align-items: center;
   margin: 50px auto 10px;
@@ -623,6 +625,11 @@ blockquote {
   display: flex;
 }
 
+.eapp-events-calendar-category-item {
+  text-transform: lowercase;
+  !important;
+}
+
 @media screen and (max-width: 991px) {
   h2 {
     justify-content: center;
@@ -644,7 +651,7 @@ blockquote {
   }
 
   .page-link:hover {
-    color: #cbaad1;
+    color: #634da0;
   }
 
   .page-link.w--current {
@@ -659,6 +666,8 @@ blockquote {
   .navigation-menu {
     background-color: rgba(0, 0, 0, 0);
     flex-flow: row;
+    text-transform: lowercase;
+    
     justify-content: center;
     align-items: flex-start;
     margin-top: 0;
@@ -720,6 +729,8 @@ blockquote {
 
   .menu {
     flex-direction: column;
+    text-transform: lowercase;
+    font-family: Jost, sans-serif;
     justify-content: center;
     align-items: stretch;
     margin: 40px 80px 60px;
@@ -865,7 +876,7 @@ blockquote {
   }
 
   .page-link:hover {
-    color: #cbaad1;
+    color: #634da0;
   }
 
   .page-link.w--current {
@@ -945,7 +956,7 @@ blockquote {
   }
 
   .menu:hover {
-    color: #cbaad1;
+    color: #634da0;
     text-transform: lowercase;
   }
 

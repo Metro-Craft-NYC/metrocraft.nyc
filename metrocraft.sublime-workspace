@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/001",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002"
+	],
+	"file_history":
+	[
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/_template.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/refining.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/index.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/teaching.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/002/drawing_faces.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002/metrocraft_grand_opening.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/sharing.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/001/soft_opening.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/002/om_chanting.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/_template.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/_template.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/001/natan_demo.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/01/nou_artiste.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/001/nou_artiste.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/images/metrocraft_teaching.png",
+		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/refining.html",
+		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/index.html",
+		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/css/house-of-helios.webflow.css",
+		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/agr.html",
+		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/LICENSE",
+		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/README.md",
+		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/CNAME",
+		"/Applications/XMRig/config.json",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/collabs.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/agr.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/index.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/friends.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/c/bumalik.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/speakerstand.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/splitbench.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/p/portfolio.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/p/resume.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/p/thesis.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/w/cdmx.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/sketchstacks.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/oldgrowthtable.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/sapientshelf.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/honey.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/grandmastable.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/fundaments.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/5p3i.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/brooklynveranda.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/f/byshoptable.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/c/spiritlounge.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/c/creativeslounge.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/pages/portfolio.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/c001_arthome.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/w001_cdmx.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/f009_oldgrowthtable.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/c002_creativeslounge.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/c003_spiritlounge.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/f008_grandmastable.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/c004_bumalik.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/f001_honey.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/f005_fundaments.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/f010_5p3i.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/f011_sketchstacks.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/p003_thesis.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/p002_resume.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/p001_portfolio.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/css/house-of-helios.webflow.css",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/w001_cdmx_FIX.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/[tmp-lnk]findings.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/c003_spiritlounge FIX.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/[tmp]collabs.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/collabs_f.html",
+		"/Volumes/Arbiter/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v4/4 - Site/Webflow DL/house-of-helios.webflow/index.html",
+		"/Users/eleleth/simple-taiko-node/docker-compose.yml",
+		"/Users/eleleth/simple-taiko-node/script/start-proposer.sh",
+		"/Users/eleleth/simple-taiko-node/README.md",
+		"/Volumes/Deep Time/Applications/DeFi/XMRig/config.json",
+		"/Volumes/Deep Time/AGR/Personal Designs/House of Helios/Website Build/-Version 010 - Place Holder/helios.estate/land.html",
+		"/Users/eleleth/Projects/DCA/Faucets/Faucet 04 - BTFD/config.ts",
+		"/Volumes/Deep Time/AGR/Shine Design/-04 Homebase/-01 Website Builds/shine design v3/shinedesign.nyc/land.html",
+		"/Users/eleleth/Projects/DCA/config.ts",
+		"/Users/eleleth/Projects/DCA/Config Archives/Faucet 03 - Infrastructure/config.ts",
+		"/Volumes/Deep Time/Applications/DeFi/xmrig-v6.16.5-mo1-mac64/config.json",
+		"/Volumes/River World/DeFi/XMRig/config.json"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "metrocraft.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
