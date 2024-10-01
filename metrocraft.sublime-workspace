@@ -7,45 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "spheres/sharing/002/metrocraft_grand_opening.html",
-			"settings":
-			{
-				"buffer_size": 20262,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sharing.html",
-			"settings":
-			{
-				"buffer_size": 6783,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					6,
-					1,
-					"paste",
-					null,
-					"AQAAAEkSAAAAAAAAeBIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAASRIAAAAAAABJEgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": "aphantasia"
-					},
-					"CwAAAGMSAAAAAAAAZBIAAAAAAAAAAAAAZBIAAAAAAABkEgAAAAAAAA8AAABwb2V0cnlfb2ZfdGhyZWVkEgAAAAAAAGUSAAAAAAAAAAAAAGUSAAAAAAAAZhIAAAAAAAAAAAAAZhIAAAAAAABnEgAAAAAAAAAAAABnEgAAAAAAAGgSAAAAAAAAAAAAAGgSAAAAAAAAaRIAAAAAAAAAAAAAaRIAAAAAAABqEgAAAAAAAAAAAABqEgAAAAAAAGsSAAAAAAAAAAAAAGsSAAAAAAAAbBIAAAAAAAAAAAAAbBIAAAAAAABtEgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAYxIAAAAAAAByEgAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -81,18 +42,20 @@
 	[
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing"
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/003",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/004"
 	],
 	"file_history":
 	[
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002/metrocraft_grand_opening.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/sharing.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/004/aphantasia.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/circular.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/index.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/003/poetry_of_three.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/sharing.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/refining.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/teaching.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002/metrocraft_grand_opening.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/002/om_chanting.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/001/natan_demo.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/001/soft_opening.html",
@@ -205,69 +168,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "spheres/sharing/002/metrocraft_grand_opening.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 20262,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4322,
-								4504
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 538.5,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "sharing.html",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6783,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4540,
-								4540
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1003.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
