@@ -14,9 +14,36 @@
 				"buffer_size": 20262,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sharing.html",
+			"settings":
+			{
+				"buffer_size": 6783,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAEkSAAAAAAAAeBIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASRIAAAAAAABJEgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "aphantasia"
+					},
+					"CwAAAGMSAAAAAAAAZBIAAAAAAAAAAAAAZBIAAAAAAABkEgAAAAAAAA8AAABwb2V0cnlfb2ZfdGhyZWVkEgAAAAAAAGUSAAAAAAAAAAAAAGUSAAAAAAAAZhIAAAAAAAAAAAAAZhIAAAAAAABnEgAAAAAAAAAAAABnEgAAAAAAAGgSAAAAAAAAAAAAAGgSAAAAAAAAaRIAAAAAAAAAAAAAaRIAAAAAAABqEgAAAAAAAAAAAABqEgAAAAAAAGsSAAAAAAAAAAAAAGsSAAAAAAAAbBIAAAAAAAAAAAAAbBIAAAAAAABtEgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYxIAAAAAAAByEgAAAAAAAAAAAAAAAPC/"
+				]
 			]
 		}
 	],
@@ -54,8 +81,7 @@
 	[
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002"
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing"
 	],
 	"file_history":
 	[
@@ -182,7 +208,6 @@
 				{
 					"buffer": 0,
 					"file": "spheres/sharing/002/metrocraft_grand_opening.html",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -205,6 +230,38 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 538.5,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sharing.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4540,
+								4540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1003.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
