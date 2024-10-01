@@ -7,6 +7,18 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "spheres/sharing/002/metrocraft_grand_opening.html",
+			"settings":
+			{
+				"buffer_size": 20262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -43,7 +55,7 @@
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/004"
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002"
 	],
 	"file_history":
 	[
@@ -131,7 +143,7 @@
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -167,6 +179,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "spheres/sharing/002/metrocraft_grand_opening.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4322,
+								4504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 538.5,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
