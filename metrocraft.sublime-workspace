@@ -43,25 +43,27 @@
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/001",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002"
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/004"
 	],
 	"file_history":
 	[
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/_template.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/refining.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/004/aphantasia.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/circular.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/index.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/teaching.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/002/drawing_faces.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002/metrocraft_grand_opening.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/003/poetry_of_three.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/sharing.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/001/soft_opening.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/refining.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/teaching.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002/metrocraft_grand_opening.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/002/om_chanting.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/001/natan_demo.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/001/soft_opening.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/002/drawing_faces.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/001/nou_artiste.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/_template.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/_template.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/001/natan_demo.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/_template.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/01/nou_artiste.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/001/nou_artiste.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/images/metrocraft_teaching.png",
 		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/refining.html",
 		"/Volumes/Arbiter/AGR/Metro Craft/_Website/metrocraft.nyc/index.html",
@@ -129,7 +131,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -143,6 +145,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"003"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -244,7 +247,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 273.0,
+	"side_bar_width": 347.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
