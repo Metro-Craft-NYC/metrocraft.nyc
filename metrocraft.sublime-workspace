@@ -41,19 +41,25 @@
 	"expanded_folders":
 	[
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/css",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/005"
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/003"
 	],
 	"file_history":
 	[
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/005/dream_craft.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/teaching.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/refining.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/sharing.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/index.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/004/aphantasia.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/003/crafternoon.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/006/el_asunto.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/005/dream_craft.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/002/metrocraft_grand_opening.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/003/popup_shots.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/_template.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/sharing.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/refining.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/index.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/_template.html",
+		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/004/aphantasia.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/circular.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/003/poetry_of_three.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/002/om_chanting.html",
@@ -61,8 +67,6 @@
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/001/soft_opening.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/002/drawing_faces.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/001/nou_artiste.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/_template.html",
-		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/refining/_template.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/sharing/_template.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/spheres/teaching/01/nou_artiste.html",
 		"/Volumes/Arbiter/AGR/GitHub/metrocraft.nyc/images/metrocraft_teaching.png",
@@ -132,7 +136,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -146,6 +150,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"collection",
+			"w-col-4",
+			"col",
 			"003"
 		],
 		"highlight": true,
